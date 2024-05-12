@@ -1,0 +1,19 @@
+{
+  "name": "express_blog",
+  "version": "1.0.0",
+  "description": "This is my blog wibsite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mou Mandal",
+  
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
